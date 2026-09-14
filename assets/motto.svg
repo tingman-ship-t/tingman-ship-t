@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="32" viewBox="0 0 720 32" role="img" aria-label="AI 产品探索者 · 用 AI 让跨境电商运营更简单">
+  <style>
+    .line {
+      fill: #57606a;
+      font: 16px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "PingFang SC", "Microsoft YaHei", monospace;
+    }
+    .cursor { fill: #2f81f7; animation: blink 1s steps(1) infinite; }
+    .reveal { animation: type 5.5s steps(28, end) infinite; }
+    @media (prefers-color-scheme: dark) { .line { fill: #8b949e; } }
+    @keyframes type {
+      0%, 8% { width: 0; }
+      62%, 88% { width: 610px; }
+      100% { width: 0; }
+    }
+    @keyframes blink { 0%, 48% { opacity: 1; } 49%, 100% { opacity: 0; } }
+  </style>
+  <defs>
+    <clipPath id="typing"><rect class="reveal" x="55" y="0" width="0" height="32" /></clipPath>
+  </defs>
+  <g clip-path="url(#typing)">
+    <text class="line" x="360" y="22" text-anchor="middle">AI 产品探索者 · 用 AI 让跨境电商运营更简单</text>
+    <rect class="cursor" x="660" y="7" width="2" height="19" rx="1" />
+  </g>
+</svg>
