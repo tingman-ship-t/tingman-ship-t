@@ -1,6 +1,6 @@
 <p align="center">
   <samp>
-    <b>丁曼 · TINGMAN</b><br><br>
+    <b>李思婷 · LISITING</b><br><br>
     <img src="assets/motto.svg" alt="AI 产品探索者 · 用 AI 让跨境电商运营更简单" width="720" height="32"><br><br>
     <a href="https://maoling-ai-ops-dashboard.a1984114944.chatgpt.site/">贸灵</a>
     &nbsp;·&nbsp;
