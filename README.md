@@ -40,6 +40,7 @@
 
 ## 微信公众号文章
 
+- [同一个 AI，换个 Harness 就像换了个脑子？](https://mp.weixin.qq.com/s/u0edgVBAHEa7JZJWYJEmIg)
 - [AI 情感军师产品有市场吗，孙宇晨替所有人试了一次](https://mp.weixin.qq.com/s/BFqfQJxjoP_gAFh4rO9V1Q)
 - [AI 短剧出海记：出海到底赚谁的钱？美国人付钱，东南亚人追更，日本人挑脸](https://mp.weixin.qq.com/s/Is_1665i1geastYoZ9qTfw)
 - [AI 先让 UI 设计师失业，具身智能又盯上了谁](https://mp.weixin.qq.com/s/3F45wqljOuq2AJudpwMKmw)
