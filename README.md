@@ -8,6 +8,8 @@
     &nbsp;·&nbsp;
     <a href="https://mp.weixin.qq.com/s/u0edgVBAHEa7JZJWYJEmIg">微信公众号</a>
     &nbsp;·&nbsp;
+    <a href="https://xhslink.cn/o/4ObGu88exMA">小红书</a>
+    &nbsp;·&nbsp;
     <a href="https://github.com/tingman-ship-t/tingman-ship-t/issues">联系我</a>
   </samp>
 </p>
