@@ -1,7 +1,7 @@
 <p align="center">
   <samp>
     <b>李思婷 · LISITING</b><br><br>
-    <img src="assets/motto.svg" alt="AI 产品探索者 · 验证哪些 AI 真有用，而不是看起来很酷" width="720" height="32"><br><br>
+    <img src="assets/motto.svg" alt=" AI 产品探索者  ·  验证哪些 AI 真有用，而不是看起来很酷 " width="720" height="32"><br><br>
     <a href="https://maoling-ai-ops-dashboard.a1984114944.chatgpt.site/">贸灵</a>
     &nbsp;·&nbsp;
     <a href="https://github.com/tingman-ship-t?tab=repositories">项目</a>
