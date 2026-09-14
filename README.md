@@ -6,8 +6,17 @@
     &nbsp;·&nbsp;
     <a href="https://github.com/tingman-ship-t?tab=repositories">项目</a>
     &nbsp;·&nbsp;
+    <a href="https://mp.weixin.qq.com/s/u0edgVBAHEa7JZJWYJEmIg">微信公众号</a>
+    &nbsp;·&nbsp;
     <a href="https://github.com/tingman-ship-t/tingman-ship-t/issues">联系我</a>
   </samp>
+</p>
+
+<p align="center">
+  <a href="https://mp.weixin.qq.com/s/u0edgVBAHEa7JZJWYJEmIg">
+    <img src="assets/wechat-qr.jpg" width="156" alt="扫码关注微信公众号">
+  </a><br>
+  <sub>扫码关注微信公众号 · 点击二维码阅读文章</sub>
 </p>
 
 ---
